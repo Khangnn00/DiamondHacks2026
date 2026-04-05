@@ -1,6 +1,7 @@
 # Two-Agent Job Application System — Plan (browser-use agents first)
 
-**Repository:** Scaffold only — implementation tracked in milestones below.  
+**Repository:** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026)  
+**Status:** Scaffold pushed to `main` — implementation tracked in milestones below.  
 **Last updated:** 2026-04-04
 
 **Project name:** TBD.

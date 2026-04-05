@@ -1,5 +1,7 @@
 # Job application co-pilot (scaffold)
 
+**GitHub:** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026)
+
 **Status:** Repository scaffold only — no product features implemented yet.
 
 ## North star
