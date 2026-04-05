@@ -1,6 +1,6 @@
 # Job application co-pilot (scaffold)
 
-**GitHub:** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026)
+**GitHub (team org):** Use `https://github.com/<ORG_NAME>/DiamondHacks2026` — not a personal account URL. See [docs/GITHUB_TEAM.md](docs/GITHUB_TEAM.md) to transfer the repo or set `git remote`.
 
 **Status:** Repository scaffold only — no product features implemented yet.
 
@@ -19,6 +19,7 @@
 | `backend/` | FastAPI app, workers, agent tasks, SQLModel/Alembic (to be wired) |
 | `desktop/` | Electron main / preload / renderer (HTML/CSS/JS) |
 | `docs/SETUP.md` | How to run processes once the app is implemented |
+| `docs/GITHUB_TEAM.md` | Move repo to a GitHub Organization (team URL, not personal) |
 | `PROJECT_PLAN.md` | Full architecture and env checklist |
 
 ## Next steps
