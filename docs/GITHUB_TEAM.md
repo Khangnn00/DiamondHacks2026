@@ -1,6 +1,8 @@
 # Team GitHub setup
 
-This project is intended to live under a **GitHub Organization** (hackathon / team account) so the URL is `https://github.com/<ORG_NAME>/DiamondHacks2026`, not tied to one person’s username.
+**Current working repo:** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026) (this is what `git remote` should match until you transfer).
+
+You can later move the project to a **GitHub Organization** so the URL becomes `https://github.com/<ORG_NAME>/DiamondHacks2026` instead of living under one person’s username.
 
 ## Option A — Transfer an existing repo
 

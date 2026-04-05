@@ -1,6 +1,8 @@
 # Job application co-pilot (scaffold)
 
-**GitHub (team org):** Use `https://github.com/<ORG_NAME>/DiamondHacks2026` — not a personal account URL. See [docs/GITHUB_TEAM.md](docs/GITHUB_TEAM.md) to transfer the repo or set `git remote`.
+**GitHub (working link):** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026)
+
+To use a **team organization** URL instead of a personal account, transfer the repo and update this README — see [docs/GITHUB_TEAM.md](docs/GITHUB_TEAM.md).
 
 **Status:** Repository scaffold only — no product features implemented yet.
 

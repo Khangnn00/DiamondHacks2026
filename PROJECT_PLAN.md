@@ -1,6 +1,6 @@
 # Two-Agent Job Application System — Plan (browser-use agents first)
 
-**Repository:** Team org URL: `https://github.com/<ORG_NAME>/DiamondHacks2026` (see [docs/GITHUB_TEAM.md](docs/GITHUB_TEAM.md)).  
+**Repository:** [github.com/Khangnn00/DiamondHacks2026](https://github.com/Khangnn00/DiamondHacks2026) — optional move to a GitHub org: [docs/GITHUB_TEAM.md](docs/GITHUB_TEAM.md).  
 **Status:** Scaffold on `main` — implementation tracked in milestones below.  
 **Last updated:** 2026-04-04
 
