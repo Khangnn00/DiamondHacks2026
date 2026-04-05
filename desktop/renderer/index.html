@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' http://127.0.0.1:* http://localhost:*;" />
+    <title>Job Agent (scaffold)</title>
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Job Agent</h1>
+      <p>Desktop scaffold — UI and API not implemented yet.</p>
+      <p>API base: <code id="base"></code></p>
+      <button type="button" id="ping" disabled>Ping /health</button>
+      <pre id="out"></pre>
+    </main>
+    <script src="js/api.js"></script>
+  </body>
+</html>
