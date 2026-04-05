@@ -11,6 +11,7 @@ This repository is currently a **scaffold** — the API, database, and workers a
 
 ## Environment
 
+- **Database:** SQLite file only (`DATABASE_URL` in `.env`) — no Supabase or Postgres for this hackathon.
 - Copy [`.env.example`](../.env.example) to `backend/.env` (or repo root — team picks one convention).
 - Install Playwright browsers after Python deps: `playwright install chromium`.
 

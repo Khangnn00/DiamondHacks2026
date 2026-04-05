@@ -8,6 +8,10 @@
 
 **Browser-use agents** (LLM + Playwright) power job discovery, company intel, and ATS flows. **FastAPI** + **SQLite** persist state; **Electron** is the desktop shell that talks to the API only (no agents in the UI).
 
+## Data storage (hackathon scope)
+
+**All application data lives in SQLite** — a single file under `backend/data/` (see `.env.example`). **We are not using Supabase, Postgres, or any other hosted database** for this hackathon: jobs, intel, scores, approvals, outbox queue, and application logs are stored locally via SQLModel. Resume PDFs live on disk in `backend/uploads/` with paths referenced from the DB.
+
 ## Layout
 
 | Path | Purpose |

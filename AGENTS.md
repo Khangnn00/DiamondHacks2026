@@ -10,6 +10,7 @@ This tree is a **scaffold**: folders, placeholders, and documentation. **No watc
 - **Browser-use** is the primary automation path; raw Playwright is fallback only.
 - **Electron** calls **FastAPI only** — workers run browser agents.
 - **Secrets** live in `.env` (never committed). Use `.env.example` as the checklist.
+- **Persistence:** **SQLite only** for all structured data (hackathon scope). Do not introduce Supabase/Postgres unless the team explicitly replans after the event.
 
 ## Where to work
 

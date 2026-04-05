@@ -64,6 +64,10 @@ flowchart LR
 
 **Auth:** None v1; optional `DEMO_API_KEY` + `X-API-Key`.
 
+### Hackathon data layer (explicit)
+
+**SQLite only** for persisted data (one file, e.g. `backend/data/app.db`). **No Supabase, no Postgres, no Neon** — keeps setup fast and matches local demo + multi-process workers with WAL. If the team outgrows SQLite after the event, migrating to hosted Postgres is a follow-up, not in v1 scope.
+
 ---
 
 ## External APIs and keys

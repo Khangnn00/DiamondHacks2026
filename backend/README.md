@@ -2,6 +2,8 @@
 
 Scaffold only. See [../PROJECT_PLAN.md](../PROJECT_PLAN.md).
 
+**Database:** SQLite file at `data/app.db` (via `DATABASE_URL`). Hackathon scope — **no Supabase/Postgres**.
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
